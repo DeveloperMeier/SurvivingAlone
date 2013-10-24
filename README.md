@@ -1,4 +1,7 @@
-SurvivingAlone
-==============
+Markup Documentation for "Surviving Alone" game engine.
 
-Game engine, and basic configurations for a new type of survival game
+GameEngine:
+	-Basic game I/O
+		+ Read descriptions and triggers from file
+		+ print to stdout, get stdin response
+		+ parse for next action
